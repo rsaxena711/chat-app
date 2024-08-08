@@ -1,6 +1,6 @@
 # Introduction of project
 This is the 3rd React Skill test project assigned by Coding Ninjas.
-Project Name: Chat App 2
+Project Name: Chat App
 
 ## Available Scripts
 
@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `Hosted On`
-open [https://abhithakur7080-chat-app-2.netlify.app/](https://abhithakur7080-chat-app-2.netlify.app/) to view it in your browser.
+open [https://chatapp-rs.netlify.app/](https://chatapp-rs.netlify.app/) to view it in your browser.
 
 ## Tasks
 ### Functionality
